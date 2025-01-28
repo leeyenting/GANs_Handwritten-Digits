@@ -3,8 +3,13 @@ Handwritten digits generator with a GAN
 
 ### Results:
 
-Loss curve
-![Loss curve](https://drive.google.com/uc?id=1c7np0sDrHW2WwQyN1FOA5jslixVg6v1t)
+Generator and discriminator Loss curve
+
+![Loss curve](https://drive.google.com/uc?export=view&id=1IyImp4Qj-hsKzRFZobT8st9H4MARfpnF)
+
+Training results epoch1~100
+
+
 
 ### Reference:
 
