@@ -14,6 +14,9 @@ Epochs: 100
 Training results epoch1~100  
 [![Watch the video](https://github.com/leeyenting/GANs_Handwritten-Digits/blob/main/generated_img_epoch100.png)](https://github.com/leeyenting/GANs_Handwritten-Digits/blob/main/video_generator%20results_epoch1-100.mp4)  
   
+https://github.com/user-attachments/assets/5d37eed1-8cd6-4d83-a229-c29ed791df05
+
+
 Generator and discriminator Loss curve:  
 ![Loss curve](https://drive.google.com/uc?export=view&id=1IyImp4Qj-hsKzRFZobT8st9H4MARfpnF)  
   
